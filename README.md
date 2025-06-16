@@ -121,7 +121,7 @@ python app.py
 - **Course**: Generative AI Systems  
 - **Duration**: January 2025 – April 2025  
 - **Project Lead**: Kalyan Kumar Chenchu Malakondaiah  
-- **LinkedIn**: [linkedin.com/in/chenchumalakondaiah](https://linkedin.com/in/chenchumalakondaiah)
+- **LinkedIn**: [linkedin.com/in/chenchumalakondaiah](https://www.linkedin.com/in/kalyan-kumar-8170a111b/)
 
 ---
 
@@ -145,5 +145,5 @@ python app.py
 ## 🙋 Contact
 
 For queries, ideas, or collaborations:  
-📬 [LinkedIn – Kalyan Kumar Chenchu Malakondaiah](https://linkedin.com/in/chenchumalakondaiah)
+📬 [LinkedIn – Kalyan Kumar Chenchu Malakondaiah](https://www.linkedin.com/in/kalyan-kumar-8170a111b/)
 
