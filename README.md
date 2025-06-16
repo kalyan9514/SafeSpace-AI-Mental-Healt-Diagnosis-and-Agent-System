@@ -5,7 +5,7 @@ Transforming mental health support with voice-enabled diagnosis and AI-powered e
 
 ---
 
-## 🧾 Project Overview
+## 🧾 Overview
 
 **SafeSpace AI** is an innovative mental health diagnostic platform designed to provide AI-powered emotional support and psychological assessments. Leveraging Large Language Models (LLMs), Whisper-based voice recognition, and Retrieval-Augmented Generation (RAG), SafeSpace AI enables early identification of mental health conditions based on user-reported symptoms. It features a multi-modal interface that supports both text and voice inputs and offers contextualized, evidence-based diagnostic suggestions for better mental wellness outcomes.
 
